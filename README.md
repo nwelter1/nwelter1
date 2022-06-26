@@ -1,4 +1,5 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nwelter1)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nwelter1)](https://github.com/nwelter1/github-readme-stats)
 
 <!--
 **nwelter1/nwelter1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
